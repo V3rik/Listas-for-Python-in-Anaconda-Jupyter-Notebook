@@ -1,2 +1,2 @@
 # Listas-for-Python-in-Anaconda-Jupyter-Notebook
-Desenvolvimento didático.
+Dentro desse arquivo encontraramentos todas as maneiras de se trabalhar com listas, conhecendo as etapas de criação, adição, remoção etc...
